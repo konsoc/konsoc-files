@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Слой_1"
+   data-name="Слой 1"
+   viewBox="0 0 170.56 170.17"
+   version="1.1"
+   sodipodi:docname="bastyon-white.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview57"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:zoom="4.7540695"
+     inkscape:cx="85.295346"
+     inkscape:cy="59.212429"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Слой_1" />
+  <defs
+     id="defs44">
+    <style
+       id="style34">.cls-1{fill:url(#Безымянный_градиент_7);}.cls-2{fill:url(#Безымянный_градиент_7-2);}.cls-3{fill:url(#Безымянный_градиент_7-3);}.cls-4{fill:url(#Безымянный_градиент_7-4);}</style>
+    <linearGradient
+       id="Безымянный_градиент_7"
+       x1="28.72"
+       y1="86.74"
+       x2="28.72"
+       y2="0.97"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#00a4ff"
+         id="stop36" />
+      <stop
+         offset="1"
+         stop-color="#142163"
+         id="stop38" />
+    </linearGradient>
+    <linearGradient
+       id="Безымянный_градиент_7-2"
+       x1="85.15"
+       y1="28.72"
+       x2="169.47"
+       y2="28.72"
+       xlink:href="#Безымянный_градиент_7"
+       gradientTransform="matrix(0.57738005,0,0,0.57738005,36.04103,35.969184)" />
+    <linearGradient
+       id="Безымянный_градиент_7-3"
+       x1="141.94"
+       y1="84.34"
+       x2="143.23"
+       y2="171.51"
+       xlink:href="#Безымянный_градиент_7"
+       gradientTransform="matrix(0.57738005,0,0,0.57738005,36.04103,35.969184)" />
+    <linearGradient
+       id="Безымянный_градиент_7-4"
+       x1="85.47"
+       y1="141.48"
+       x2="0.15"
+       y2="141.48"
+       xlink:href="#Безымянный_градиент_7"
+       gradientTransform="matrix(0.57738005,0,0,0.57738005,36.04103,35.969184)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Безымянный_градиент_7"
+       id="linearGradient141"
+       gradientUnits="userSpaceOnUse"
+       x1="28.72"
+       y1="86.74"
+       x2="28.72"
+       y2="0.97"
+       gradientTransform="matrix(0.57738005,0,0,0.57738005,36.04103,35.969184)" />
+  </defs>
+  <title
+     id="title46">pocketnet logo</title>
+  <rect
+     style="fill:#ffffff;fill-rule:evenodd"
+     id="rect165"
+     width="170.56"
+     height="170.17"
+     x="0"
+     y="0"
+     rx="40.299999" />
+  <path
+     class="cls-1"
+     d="m 56.56689,101.09765 -0.138571,-0.25404 v 0 A 32.70858,32.70858 0 0 1 69.211513,56.500819 L 60.908788,44.092921 a 39.948925,39.948925 0 0 0 -9.428616,7.29231 47.662723,47.662723 0 0 0 -7.933202,56.866159 v 0 a 7.465524,7.465524 0 0 1 0.964225,3.67791 7.5059406,7.5059406 0 0 1 -2.194044,5.30035 l -6.276121,6.2819 10.51409,10.51409 6.478204,-6.50708 a 22.425441,22.425441 0 0 0 3.383447,-4.48046 22.361929,22.361929 0 0 0 0.155893,-21.94045 z"
+     id="path48"
+     style="fill:url(#linearGradient141);stroke-width:0.57738" />
+  <path
+     class="cls-2"
+     d="M 119.05673,51.408327 A 47.662723,47.662723 0 0 0 62.190572,43.475125 v 0 a 7.465524,7.465524 0 0 1 -3.677911,0.964224 7.5059406,7.5059406 0 0 1 -5.300349,-2.194044 l -6.281895,-6.276121 -10.51409,10.514091 6.507073,6.478204 a 22.275322,22.275322 0 0 0 15.589261,6.35118 22.246453,22.246453 0 0 0 11.085697,-2.938864 v 0 a 32.70858,32.70858 0 0 1 44.342792,12.783194 l 12.65039,-7.950523 a 42.8416,42.8416 0 0 0 -7.53481,-9.798139 z"
+     id="path50"
+     style="fill:url(#%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82_7-2);stroke-width:0.57738" />
+  <path
+     class="cls-3"
+     d="m 119.07405,118.88096 a 47.662723,47.662723 0 0 0 7.92743,-56.866162 v 0 a 7.5059406,7.5059406 0 0 1 1.22982,-8.97826 l 6.28767,-6.281895 -10.51409,-10.508316 -6.48398,6.501299 a 22.356155,22.356155 0 0 0 -3.39499,26.674958 v 0 a 32.70858,32.70858 0 0 1 -12.7832,44.342786 l 8.56255,12.2751 c 3.76452,-2.09589 6.03362,-4.04166 9.16879,-7.15951 z"
+     id="path52"
+     style="fill:url(#%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82_7-3);stroke-width:0.57738" />
+  <path
+     class="cls-4"
+     d="m 127.67702,117.22388 a 22.356155,22.356155 0 0 0 -26.67496,-3.395 v 0 A 32.847151,32.847151 0 0 1 56.543795,101.12652 v 0 a 22.361929,22.361929 0 0 1 -0.155893,21.94044 47.685818,47.685818 0 0 0 51.964208,3.66637 v 0 a 7.5059406,7.5059406 0 0 1 8.97826,1.22982 l 6.28189,6.28767 10.58338,-10.51987 z"
+     id="path54"
+     style="fill:url(#%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82_7-4);stroke-width:0.57738" />
+  <metadata
+     id="metadata897">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>pocketnet logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
